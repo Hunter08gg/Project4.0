@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.1">
+  <diagram name="Page-1" id="nlYobZZDLP_H89TUrYDs">
+    <mxGraphModel dx="877" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lOws52-tn2AGSpikEG7z-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Система учета личных финансов" vertex="1">
+          <mxGeometry height="70" width="240" x="445" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-28" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lOws52-tn2AGSpikEG7z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-29" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="lOws52-tn2AGSpikEG7z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-30" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lOws52-tn2AGSpikEG7z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-2" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Пользователь" vertex="1">
+          <mxGeometry height="80" width="140" x="495" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-36" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lOws52-tn2AGSpikEG7z-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-37" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="lOws52-tn2AGSpikEG7z-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-38" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="lOws52-tn2AGSpikEG7z-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Управление категориями" vertex="1">
+          <mxGeometry height="60" width="130" x="500" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-39" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="lOws52-tn2AGSpikEG7z-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-40" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="lOws52-tn2AGSpikEG7z-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-41" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="lOws52-tn2AGSpikEG7z-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Просмотр статистики" vertex="1">
+          <mxGeometry height="60" width="130" x="830" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-31" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="lOws52-tn2AGSpikEG7z-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-32" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lOws52-tn2AGSpikEG7z-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Управление финансами" vertex="1">
+          <mxGeometry height="60" width="130" x="160" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-35" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lOws52-tn2AGSpikEG7z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Удаление операции" vertex="1">
+          <mxGeometry height="60" width="120" x="255" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обновление баланса" vertex="1">
+          <mxGeometry height="60" width="120" x="255" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Просмотр баланса" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-33" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lOws52-tn2AGSpikEG7z-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Добавление операции" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Просмотр категорий" vertex="1">
+          <mxGeometry height="60" width="120" x="505" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Удаление категорий" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Добавление категорий" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-42" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="lOws52-tn2AGSpikEG7z-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-43" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="lOws52-tn2AGSpikEG7z-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-44" edge="1" parent="1" source="lOws52-tn2AGSpikEG7z-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="lOws52-tn2AGSpikEG7z-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Просмотр диаграммы&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="835" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Просмотр месячной статистики" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сравнение с прошлым месяцом" vertex="1">
+          <mxGeometry height="60" width="120" x="920" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Просмотр общей статистики" vertex="1">
+          <mxGeometry height="60" width="120" x="835" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Просмотр расходов по категориям" vertex="1">
+          <mxGeometry height="60" width="120" x="920" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="lOws52-tn2AGSpikEG7z-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Просмотр доходов по категориям" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
